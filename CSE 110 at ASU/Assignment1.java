@@ -3,10 +3,6 @@
 
 // Assigment details below.
 
-// Due date/Time: Friday, Sep. 13, 2019 at 5:30pm
-// Important:
-// This is an individual lab/assignment, please do not collaborate. Make sure that you write every line of your own code. Give your code to someone or using code written by someone else will be considered a violation of the academic integrity and will result in a report sent to the Dean's office. Students are expected to abide by the FSE Honor Code (http://engineering.asu.edu/integrity).  
-
 // What this Assignment Is About:
 
 // Familiarization with basic data types
