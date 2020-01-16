@@ -17,7 +17,8 @@ public class QuickSort {
     }
 
     static void quickSort(int[] arr, int left, int right) {
-        if (left >= right) return;
+        if (left >= right)
+            return;
         int q = partition(arr, left, right);
         quickSort(arr, left, q - 1);
         quickSort(arr, q + 1, right);
@@ -39,6 +40,7 @@ public class QuickSort {
     static void display(int[] arr) {
         System.out.println(Arrays.toString(arr));
     }
+
     public static void main(String[] args) {
         int[] myArr = setArray();
         quickSort(myArr, 0, myArr.length - 1);

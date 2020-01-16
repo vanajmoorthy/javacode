@@ -1,3 +1,5 @@
+package Library;
+
 import java.util.Scanner;
 
 public class Methods {
@@ -32,7 +34,6 @@ public class Methods {
         }
 
     }
-
 
     // Figure out the rest Myra
 
